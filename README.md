@@ -53,8 +53,6 @@ Users should be able to:
 - Mobile-first workflow
 - Saas/Scss
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 In this activity, I utilized and applied my knowledge of flexbox, the box model, and linear gradient backgrounds. This experience greatly assisted me in reinforcing and solidifying my skills.
