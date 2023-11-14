@@ -139,6 +139,10 @@ h1 {
   text-align: center;
   text-decoration: none;
   color: var(--neutral-white);
+  transition: all 0.3s ease;
+}
+.continue-btn:hover {
+  background-color: var(--primary-bg);
 }
 
 .attribution {
